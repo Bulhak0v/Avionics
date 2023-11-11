@@ -1,16 +1,18 @@
 body {
     background-image: url("wallpapers.jpg");
-    display: flex;
-    justify-content: center;
-    min-height: 100vh;
-    align-items: center;
 }
 .rounded-img {
     width: 60%;
     border-radius: 40%;
 
 }
-.card{
+.main{
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+}
+.mycard{
     background: rgb(135,199,227);
     background: linear-gradient(90deg, rgba(135,199,227,0.7013655804118523) 20%, rgba(135,199,227,0.5) 35%, rgba(135,199,227,0.7) 80%);
     position: relative;
@@ -22,7 +24,7 @@ body {
     overflow: hidden;
     transition: 0.5s;
 }
-.card .circle{
+.mycard .circle{
     position: absolute;
     top: 0;
     left: 0;
@@ -30,10 +32,10 @@ body {
     height: 100%;
     border-radius: 220px;
 }
-.card .circle::before{
+.mycard .circle::before{
     content: '';
     position: absolute;
-    top: -12px;
+    top: -20px;
     left: 0;
     width: 100%;
     height: 100%;
@@ -42,25 +44,25 @@ body {
     clip-path: circle(60px at 50%);
     transition: 0.5s;
 }
-.card:hover .circle:before{
+.mycard:hover .circle:before{
     background: royalblue;
     clip-path:circle(480px at 50%);
 
 }
-.card img{
+.mycard img{
     position: absolute;
     transform: translate(-50%);
     height: 300px;
     pointer-events: none;
     transition: 0.5s;
 }
-.card:hover img{
+.mycard:hover img{
     left:80%;
     height: 300px;
     width: 300px;
     border-radius: 5%;
 }
-.card .content{
+.mycard .content{
     position: relative;
     width: 50%;
     padding: 20px 20px 20px 40px;
@@ -71,7 +73,7 @@ body {
     font-size: 19px;
     color: gold;
 }
-.card:hover .content{
+.mycard:hover .content{
     left: 0;
     opacity: 1;
     visibility: visible;
