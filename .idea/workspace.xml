@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dc383b5-5f30-40dd-9c61-095ee944132a" name="Changes" comment="Final version of the site. Added &quot;Gallery&quot; page, edited all pages. Added logo, edited footer and navigation bar. Це кінець..." />
+    <list default="true" id="3dc383b5-5f30-40dd-9c61-095ee944132a" name="Changes" comment="Final final" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,24 +32,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Микита/WebstormProjects/Avionics",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Микита/WebstormProjects/Avionics&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Микита\WebstormProjects\Avionics" />
@@ -71,6 +71,7 @@
       <workItem from="1699866741299" duration="181000" />
       <workItem from="1699867667973" duration="11000" />
       <workItem from="1700047589759" duration="7899000" />
+      <workItem from="1700064288536" duration="78000" />
     </task>
     <task id="LOCAL-00001" summary="Added &quot;about me&quot; page and &quot;navigation&quot; page.">
       <option name="closed" value="true" />
@@ -96,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700060657558</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Final final">
+      <option name="closed" value="true" />
+      <created>1700064328678</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700064328678</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +126,7 @@
     <MESSAGE value="Added &quot;about me&quot; page and &quot;navigation&quot; page." />
     <MESSAGE value="Added &quot;about me&quot; and &quot;navigation&quot; pages." />
     <MESSAGE value="Final version of the site. Added &quot;Gallery&quot; page, edited all pages. Added logo, edited footer and navigation bar. Це кінець..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Final version of the site. Added &quot;Gallery&quot; page, edited all pages. Added logo, edited footer and navigation bar. Це кінець..." />
+    <MESSAGE value="Final final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final final" />
   </component>
 </project>
